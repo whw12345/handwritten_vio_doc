@@ -1,2 +1,2 @@
 # handwritten_vio_doc
-the documents and comments for handwritten VIO project .
+the documents and code comments for handwritten VIO project.
